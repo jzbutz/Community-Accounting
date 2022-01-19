@@ -4,7 +4,7 @@ Currently not live. Will be launched April 2022.
 
 Landing Page https://startbootstrap.com/template/small-business
 
-Services https://startbootstrap.com/template/scrolling-nav
+Services https://startbootstrap.com/template/heroic-features
 
 Client Portal https://startbootstrap.com/template/heroic-features
 
