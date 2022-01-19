@@ -1,5 +1,5 @@
 # Community Accounting
-I built this website for my mother in order to help her launch her small business accounting firm. I utilized a bootstrap navbar and some containers/css. Most of the HTML is custom. Uses captcha API and custom PHP for contact form functionality. You can see the differences by the following these links.
+I built this website for my mother in order to help her launch her small business accounting firm. I utilize a bootstrap navbar template and some containers/css. Most of the HTML is custom. Uses captcha API and custom PHP for contact form functionality. You can see the differences by the following these links.
 Currently not live. Will be launched April 2022.
 
 Landing Page https://startbootstrap.com/template/small-business
